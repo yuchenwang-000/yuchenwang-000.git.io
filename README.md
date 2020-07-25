@@ -5,18 +5,15 @@ You can use the [editor on GitHub](https://github.com/yuchenwang-000/yuchenwang-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
-[McGill University](https://www.mcgill.ca/), Montreal
+[McGill University](https://www.mcgill.ca/), Montreal, Quebec  
+September 2018 - Present  
+Master of Science  
+Department of Computer Science  
 
-September 2018 - Present
-
-Master of Science
-
-Department of Computer Science
-
-[University of Western Ontario](https://www.uwo.ca/)
-September 2014 - June 2018
-Bachelor of Science
-Honour Specialization in Computer Science
+[University of Western Ontario](https://www.uwo.ca/), London, Ontario  
+September 2014 - June 2018  
+Bachelor of Science  
+Honour Specialization in Computer Science  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
