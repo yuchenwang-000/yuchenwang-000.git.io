@@ -6,8 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 [McGill University](https://www.mcgill.ca/), Montreal
+
 September 2018 - Present
+
 Master of Science
+
 Department of Computer Science
 
 [University of Western Ontario](https://www.uwo.ca/)
